@@ -6,5 +6,9 @@ Rework of my website
 
 Using [this](https://medium.com/flutter-community/flutter-code-organization-revised-b09ad5cef7f6) post as guide for app organisation.
 
-### Flutter development
+### Animations
+
+
+### Flutter development 
+* For Linux:
 export PATH="$PATH:~/Development/flutter/bin"

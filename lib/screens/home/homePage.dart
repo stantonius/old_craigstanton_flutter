@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:craigstanton_flutter/components/IntroText.dart';
+import 'package:craigstanton_flutter/components/IntroTextStateful.dart';
 
 class HomePage extends StatelessWidget {
   @override

@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Craig Stanton',
-      theme: appTheme(),
+      theme: appTheme(context),
       initialRoute: '/',
       routes: routes,
     );
