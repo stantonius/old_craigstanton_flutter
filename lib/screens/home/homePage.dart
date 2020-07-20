@@ -5,11 +5,6 @@ import '../../components/directoryLayout.dart';
 class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text("Craig Stanton")),
-      body: Container(
-          child:
-              Expanded(child: Row(children: [IntroText(), DirectoryLayout()]))),
-    );
+    return Scaffold(appBar: AppBar(title: null), body: IntroText());
   }
 }
